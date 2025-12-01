@@ -2,8 +2,6 @@
 
 Developers:
 
-JEMS
-
 Elise James - Elise776
 
 Molly McKenzie - mollymckz
